@@ -1,0 +1,59 @@
+fileFormatVersion: 2
+guid: c9584f468f6a69a49891c5bb7b642c16
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - newplayer: {instanceID: 0}
+  - singlePlayer: {fileID: 1000011550140304, guid: 966da502de0e93a4bbe29d932694a12f,
+      type: 2}
+  - newplayertransform: {instanceID: 0}
+  - bodytransform: {instanceID: 0}
+  - head: {instanceID: 0}
+  - body: {instanceID: 0}
+  - centerpiece: {instanceID: 0}
+  - bodydetail: {instanceID: 0}
+  - realbody: {instanceID: 0}
+  - rightshoulder: {instanceID: 0}
+  - rightarm: {instanceID: 0}
+  - rightarmcuff: {instanceID: 0}
+  - leftshoulder: {instanceID: 0}
+  - leftarm: {instanceID: 0}
+  - leftarmcuff: {instanceID: 0}
+  - playerinfo: {instanceID: 0}
+  - move: {instanceID: 0}
+  - aim: {instanceID: 0}
+  - mouse: {instanceID: 0}
+  - render: {instanceID: 0}
+  - projectile1: {instanceID: 0}
+  - projectile2: {instanceID: 0}
+  - projectile3: {instanceID: 0}
+  - projectile4: {instanceID: 0}
+  - time: {instanceID: 0}
+  - time_text: {instanceID: 0}
+  - score: {instanceID: 0}
+  - ownscore_text: {instanceID: 0}
+  - score_image: {instanceID: 0}
+  - playagain: {instanceID: 0}
+  - playagain_text: {instanceID: 0}
+  - playagain_: {instanceID: 0}
+  - playagain_image: {instanceID: 0}
+  - _continue: {instanceID: 0}
+  - continue_text: {instanceID: 0}
+  - continue_: {instanceID: 0}
+  - continue_image: {instanceID: 0}
+  - menu: {instanceID: 0}
+  - menu_text: {instanceID: 0}
+  - menu_: {instanceID: 0}
+  - menu_image: {instanceID: 0}
+  - winner: {instanceID: 0}
+  - name_text: {instanceID: 0}
+  - winner_text: {instanceID: 0}
+  - score_text: {instanceID: 0}
+  - winner_image: {instanceID: 0}
+  - name: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

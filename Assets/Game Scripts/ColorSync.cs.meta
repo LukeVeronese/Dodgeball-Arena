@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 517862700611ab14fa7b99685c95da3b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - head: {instanceID: 0}
+  - body: {instanceID: 0}
+  - centerpiece: {instanceID: 0}
+  - bodydetail: {instanceID: 0}
+  - rightshoulder: {instanceID: 0}
+  - leftshoulder: {instanceID: 0}
+  - rightarm: {instanceID: 0}
+  - rightarmcuff: {instanceID: 0}
+  - leftarm: {instanceID: 0}
+  - leftarmcuff: {instanceID: 0}
+  - bottom: {instanceID: 0}
+  - red_Color: {instanceID: 0}
+  - orange_Color: {instanceID: 0}
+  - yellow_Color: {instanceID: 0}
+  - green_Color: {instanceID: 0}
+  - blue_Color: {instanceID: 0}
+  - purple_Color: {instanceID: 0}
+  - pink_Color: {instanceID: 0}
+  - gray_Color: {instanceID: 0}
+  - white_Color: {instanceID: 0}
+  - black_Color: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
