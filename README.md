@@ -3,3 +3,5 @@
 
 Link to the game hosted on Kongregate
 https://www.kongregate.com/games/Luke_Memewalker/dodgeball-arena
+
+Scripts are in Assets > Game Scripts
